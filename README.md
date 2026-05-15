@@ -21,4 +21,4 @@ you will see "Black mesa" as a source 2007 mod in your steam library now.
 - A: I dont think so. The 2012 version is closer to hl2
 
 - Q: How do you use cmake?
-- A: If you have to ask that question, then wait until your hour has come again. The right man with the wrong compiler can make all the difference in the world; So wake up, and do your research beforehand.
+- A: If you have to ask that question, then wait until your hour has come again. The right man with the wrong compiler toolchain can make all the difference in the world; So wake up, and do your research beforehand.
