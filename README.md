@@ -14,7 +14,7 @@ you will see "Black mesa" as a source 2007 mod in your steam library now.
 4. run.
 
 # Progress
-- Glock 17 has been added, give it with `give weapon_glock`
+- Glock 17 has been added, give it with `give weapon_glock`, or just pick it up normally. impulse 101 does not work yet. you can also pick up the corwbar.
 
 # Questions
 - Q: Will the retail version of BMS ever be supported?
