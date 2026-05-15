@@ -1,6 +1,6 @@
 //========= Copyright Valve Corporation, All rights reserved. ============//
 //
-// Purpose:		Pistol - hand gun
+// Purpose:		Glock - hand gun
 //
 // $NoKeywords: $
 //=============================================================================//
@@ -35,7 +35,7 @@ ConVar sk_npc_dmg_9mm("sk_npc_dmg_9mm", "4", FCVAR_REPLICATED);
 ConVar sk_max_9mm("sk_max_9mm", "150", FCVAR_REPLICATED);
 
 //-----------------------------------------------------------------------------
-// CWeaponPistol
+// CWeaponGlock
 //-----------------------------------------------------------------------------
 
 class CWeaponGlock : public CBaseHLCombatWeapon
@@ -248,10 +248,6 @@ void CWeaponGlock::PrimaryAttack(void)
 	if (pOwner)
 	{
 		pOwner->ViewPunchReset();
-		// Add this line to play the fire animation
-		SendWeaponAnim(GetPrimaryAttackActivity());
-		// Also ensure the player plays the attack animation
-		pOwner->SetAnimation(PLAYER_ATTACK1);
 	}
 
 	BaseClass::PrimaryAttack();
