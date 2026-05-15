@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SourceSDK2013",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client_episodic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_episodic-Release-6ac90183e43adc2fbea1.json",
+					"name" : "client_episodic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mathlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mathlib-Release-91394b1aec0ea6b3e869.json",
+					"name" : "mathlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raytrace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raytrace-Release-dd0b6d284c2766c2b00f.json",
+					"name" : "raytrace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_episodic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_episodic-Release-5b8fb2aba48d68f1dd2a.json",
+					"name" : "server_episodic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tier1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tier1-Release-be787429248caa9fd2ca.json",
+					"name" : "tier1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vgui_controls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vgui_controls-Release-1f22e894cf5791dd540e.json",
+					"name" : "vgui_controls",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug",
+		"source" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

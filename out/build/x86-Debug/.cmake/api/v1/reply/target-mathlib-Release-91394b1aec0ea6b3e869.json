@@ -1,0 +1,844 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:X86",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "mathlib.lib"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"target_compile_options",
+			"add_compile_options_filtered",
+			"add_compile_definitions",
+			"target_compile_definitions",
+			"add_compile_definitions_filtered",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"src/mathlib/mathlib.cmake",
+			"_cmake_scripts/groups.cmake",
+			"CMakeLists.txt",
+			"_cmake_scripts/video_base.cmake",
+			"_cmake_scripts/msvc_base.cmake",
+			"_cmake_scripts/windows_base.cmake",
+			"_cmake_scripts/base.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 243,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 24
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 14,
+				"parent" : 25
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 100,
+				"parent" : 0
+			},
+			{
+				"file" : 5,
+				"parent" : 27
+			},
+			{
+				"command" : 1,
+				"file" : 5,
+				"line" : 10,
+				"parent" : 28
+			},
+			{
+				"file" : 4,
+				"parent" : 29
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 33,
+				"parent" : 30
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 0
+			},
+			{
+				"file" : 6,
+				"parent" : 32
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 55,
+				"parent" : 33
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 246,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 97,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 3,
+				"parent" : 28
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 247,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 138,
+				"parent" : 39
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 89,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR  /O2  /DNDEBUG -std:c++14 -MT"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "/Z7"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "/Oy-"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "/Gw"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "/Zc:threadSafeInit-"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "/Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 14,
+					"fragment" : "/Zc:preprocessor"
+				},
+				{
+					"backtrace" : 15,
+					"fragment" : "/Zc:inline"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "/GR"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "/GF"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "/GS-"
+				},
+				{
+					"backtrace" : 20,
+					"fragment" : "/Oi"
+				},
+				{
+					"backtrace" : 21,
+					"fragment" : "/Ot"
+				},
+				{
+					"backtrace" : 22,
+					"fragment" : "/Gy"
+				},
+				{
+					"backtrace" : 23,
+					"fragment" : "/Ob2"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 26,
+					"define" : "AVI_VIDEO"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "COMPILER_MSVC"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "FRAME_POINTER_OMISSION_DISABLED"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "LIBNAME=mathlib"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "MATHLIB_LIB"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "NDEBUG"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "RAD_TELEMETRY_DISABLED"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "WMV_VIDEO"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_ALLOW_MSC_VER_MISMATCH"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_ALLOW_RUNTIME_LIBRARY_MISMATCH"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "_DLL_EXT=.dll"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "_LIB"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "_WIN32"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "_WINDOWS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/common"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier0"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier1"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/mathlib"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		}
+	],
+	"id" : "mathlib::@6890427a1f51a3e7e1df",
+	"name" : "mathlib",
+	"nameOnDisk" : "mathlib.lib",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				29
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/color_conversion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/halton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/lightdesc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/mathlib_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/powsse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/sparse_convolution_noise.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/sseconst.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/sse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/ssenoise.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/3dnow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/anorms.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/bumpvects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/IceKey.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/imagequant.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/polyhedron.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/quantize.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/randsse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/spherical.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/simdvectormatrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/vector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/vmatrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "src/mathlib/almostequal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/amd3dx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/anorms.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/bumpvects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/compressed_3d_unitvec.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/compressed_light_cube.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/compressed_vector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/halton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/IceKey.H",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/lightdesc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/math_pfns.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/mathlib.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/noise.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/polyhedron.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/quantize.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/simdvectormatrix.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/spherical_geometry.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/ssemath.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/ssequaternion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/vector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/vector2d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/vector4d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/vmatrix.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/public/mathlib/vplane.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/mathlib/noisedata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/mathlib/sse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/mathlib/3dnow.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

@@ -1,0 +1,9093 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/game/mod_episodic/bin/client.dll"
+		},
+		{
+			"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/game/mod_episodic/bin/client.pdb"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"add_link_options",
+			"target_link_options",
+			"link_directories",
+			"target_link_libraries",
+			"target_use_client_base",
+			"add_libraries_filtered",
+			"target_compile_options",
+			"add_compile_options_filtered",
+			"add_compile_definitions",
+			"target_compile_definitions",
+			"add_compile_definitions_filtered",
+			"include_directories",
+			"target_include_directories",
+			"target_precompile_headers",
+			"target_sources",
+			"add_sources_filtered"
+		],
+		"files" : 
+		[
+			"src/game/client/client_episodic.cmake",
+			"_cmake_scripts/groups.cmake",
+			"CMakeLists.txt",
+			"_cmake_scripts/msvc_base.cmake",
+			"_cmake_scripts/windows_base.cmake",
+			"src/game/client/client_base.cmake",
+			"src/tier1/tier1.cmake",
+			"_cmake_scripts/video_base.cmake",
+			"_cmake_scripts/base.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 117,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 100,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 10,
+				"parent" : 7
+			},
+			{
+				"file" : 3,
+				"parent" : 8
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 95,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 236,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 84,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 135,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 1193,
+				"parent" : 13
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 234,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 197,
+				"parent" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 197,
+				"parent" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 197,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"file" : 6,
+				"parent" : 19
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 144,
+				"parent" : 20
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 233,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 155,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"file" : 7,
+				"parent" : 40
+			},
+			{
+				"command" : 10,
+				"file" : 7,
+				"line" : 14,
+				"parent" : 41
+			},
+			{
+				"command" : 11,
+				"file" : 5,
+				"line" : 1173,
+				"parent" : 13
+			},
+			{
+				"command" : 10,
+				"file" : 3,
+				"line" : 33,
+				"parent" : 9
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 237,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 0
+			},
+			{
+				"file" : 8,
+				"parent" : 46
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 55,
+				"parent" : 47
+			},
+			{
+				"command" : 11,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 4
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 97,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 4,
+				"line" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 238,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 138,
+				"parent" : 52
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 89,
+				"parent" : 0
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 126,
+				"parent" : 4
+			},
+			{
+				"command" : 14,
+				"file" : 5,
+				"line" : 1163,
+				"parent" : 13
+			},
+			{
+				"command" : 15,
+				"file" : 5,
+				"line" : 1188,
+				"parent" : 13
+			},
+			{
+				"command" : 16,
+				"file" : 5,
+				"line" : 1158,
+				"parent" : 13
+			},
+			{
+				"command" : 17,
+				"file" : 2,
+				"line" : 235,
+				"parent" : 0
+			},
+			{
+				"command" : 16,
+				"file" : 2,
+				"line" : 171,
+				"parent" : 59
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR  /O2  /DNDEBUG -std:c++14 -MT"
+				},
+				{
+					"backtrace" : 23,
+					"fragment" : "/Zi"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 25,
+					"fragment" : "/Oy-"
+				},
+				{
+					"backtrace" : 26,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "/Gw"
+				},
+				{
+					"backtrace" : 28,
+					"fragment" : "/Zc:threadSafeInit-"
+				},
+				{
+					"backtrace" : 29,
+					"fragment" : "/Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 30,
+					"fragment" : "/Zc:preprocessor"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "/Zc:inline"
+				},
+				{
+					"backtrace" : 32,
+					"fragment" : "/GR"
+				},
+				{
+					"backtrace" : 33,
+					"fragment" : "/GF"
+				},
+				{
+					"backtrace" : 34,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "/GS-"
+				},
+				{
+					"backtrace" : 36,
+					"fragment" : "/Oi"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "/Ot"
+				},
+				{
+					"backtrace" : 38,
+					"fragment" : "/Gy"
+				},
+				{
+					"backtrace" : 39,
+					"fragment" : "/Ob2"
+				},
+				{
+					"fragment" : "/YcC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.hxx /FpC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/./cmake_pch.cxx.pch /FIC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 42,
+					"define" : "AVI_VIDEO"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "CLIENT_DLL"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "COMPILER_MSVC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "DLLNAME=client_episodic"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "ENABLE_CHROMEHTMLWINDOW"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "FRAME_POINTER_OMISSION_DISABLED"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_CLIENT_DLL"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_EPISODIC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "MEMOVERRIDE_MODULE=client_episodic"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "NDEBUG"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "NO_STRING_T"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "PROTECTED_THINGS_ENABLE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "RAD_TELEMETRY_DISABLED"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VECTOR"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VERSION_SAFE_STEAM_API_INTERFACES"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "WMV_VIDEO"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_MSC_VER_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_RUNTIME_LIBRARY_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "_DLL_EXT=.dll"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "_USRDLL"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WIN32"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WINDOWS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "_snprintf=use_Q_snprintf_instead"
+				},
+				{
+					"define" : "client_episodic_EXPORTS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "fopen=dont_use_fopen"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "strncpy=use_Q_strncpy_instead"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/common"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier0"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier1"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2/elements"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/episodic"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/game_controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/thirdparty/sixensesdk/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "14"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 57,
+					"header" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/cbase.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR  /O2  /DNDEBUG -std:c++14 -MT"
+				},
+				{
+					"backtrace" : 23,
+					"fragment" : "/Zi"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 25,
+					"fragment" : "/Oy-"
+				},
+				{
+					"backtrace" : 26,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "/Gw"
+				},
+				{
+					"backtrace" : 28,
+					"fragment" : "/Zc:threadSafeInit-"
+				},
+				{
+					"backtrace" : 29,
+					"fragment" : "/Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 30,
+					"fragment" : "/Zc:preprocessor"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "/Zc:inline"
+				},
+				{
+					"backtrace" : 32,
+					"fragment" : "/GR"
+				},
+				{
+					"backtrace" : 33,
+					"fragment" : "/GF"
+				},
+				{
+					"backtrace" : 34,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "/GS-"
+				},
+				{
+					"backtrace" : 36,
+					"fragment" : "/Oi"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "/Ot"
+				},
+				{
+					"backtrace" : 38,
+					"fragment" : "/Gy"
+				},
+				{
+					"backtrace" : 39,
+					"fragment" : "/Ob2"
+				},
+				{
+					"fragment" : "/YuC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.hxx /FpC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/./cmake_pch.cxx.pch /FIC:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 42,
+					"define" : "AVI_VIDEO"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "CLIENT_DLL"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "COMPILER_MSVC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "DLLNAME=client_episodic"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "ENABLE_CHROMEHTMLWINDOW"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "FRAME_POINTER_OMISSION_DISABLED"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_CLIENT_DLL"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_EPISODIC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "MEMOVERRIDE_MODULE=client_episodic"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "NDEBUG"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "NO_STRING_T"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "PROTECTED_THINGS_ENABLE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "RAD_TELEMETRY_DISABLED"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VECTOR"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VERSION_SAFE_STEAM_API_INTERFACES"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "WMV_VIDEO"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_MSC_VER_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_RUNTIME_LIBRARY_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "_DLL_EXT=.dll"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "_USRDLL"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WIN32"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WINDOWS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "_snprintf=use_Q_snprintf_instead"
+				},
+				{
+					"define" : "client_episodic_EXPORTS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "fopen=dont_use_fopen"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "strncpy=use_Q_strncpy_instead"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/common"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier0"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier1"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2/elements"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/episodic"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/game_controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/thirdparty/sixensesdk/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "14"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 57,
+					"header" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/cbase.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				14,
+				16,
+				18,
+				19,
+				21,
+				22,
+				23,
+				24,
+				25,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				56,
+				58,
+				59,
+				62,
+				63,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				74,
+				75,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				92,
+				93,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				103,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				113,
+				116,
+				117,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				220,
+				221,
+				222,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				240,
+				241,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				249,
+				250,
+				251,
+				252,
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				259,
+				260,
+				261,
+				262,
+				263,
+				264,
+				265,
+				266,
+				267,
+				268,
+				269,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				288,
+				289,
+				290,
+				291,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				324,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351,
+				352,
+				353,
+				354,
+				355,
+				356,
+				357,
+				358,
+				359,
+				360,
+				361,
+				362,
+				363,
+				364,
+				365,
+				366,
+				367,
+				368,
+				369,
+				370,
+				371,
+				372,
+				373,
+				374,
+				375,
+				376,
+				378,
+				379,
+				380,
+				381,
+				382,
+				383,
+				384,
+				385,
+				386,
+				387,
+				388,
+				389,
+				390,
+				392,
+				393,
+				394,
+				395,
+				396,
+				397,
+				398,
+				399,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				407,
+				408,
+				409,
+				410,
+				411,
+				412,
+				413,
+				414,
+				416,
+				418,
+				419,
+				420,
+				421,
+				422,
+				423,
+				424,
+				425,
+				426,
+				427,
+				428,
+				429,
+				431,
+				432,
+				433,
+				434,
+				436,
+				438,
+				471,
+				472,
+				473,
+				474,
+				475,
+				476,
+				477,
+				478,
+				479,
+				480,
+				481,
+				482,
+				483,
+				484,
+				485,
+				486,
+				487,
+				488,
+				489,
+				490,
+				491,
+				492,
+				493,
+				494,
+				495,
+				496,
+				497,
+				498,
+				499,
+				500,
+				501,
+				502,
+				503,
+				504,
+				505,
+				506,
+				507,
+				508,
+				509,
+				510,
+				511,
+				512,
+				513,
+				514,
+				515,
+				516,
+				517,
+				518,
+				519,
+				520,
+				521,
+				522,
+				523,
+				524,
+				525,
+				526,
+				527,
+				528,
+				529,
+				530,
+				531,
+				532,
+				533,
+				534,
+				535,
+				537,
+				539,
+				540,
+				541,
+				542,
+				543,
+				544,
+				545,
+				546,
+				547,
+				548,
+				550,
+				552,
+				553
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR  /O2  /DNDEBUG -std:c++14 -MT"
+				},
+				{
+					"backtrace" : 23,
+					"fragment" : "/Zi"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 25,
+					"fragment" : "/Oy-"
+				},
+				{
+					"backtrace" : 26,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "/Gw"
+				},
+				{
+					"backtrace" : 28,
+					"fragment" : "/Zc:threadSafeInit-"
+				},
+				{
+					"backtrace" : 29,
+					"fragment" : "/Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 30,
+					"fragment" : "/Zc:preprocessor"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "/Zc:inline"
+				},
+				{
+					"backtrace" : 32,
+					"fragment" : "/GR"
+				},
+				{
+					"backtrace" : 33,
+					"fragment" : "/GF"
+				},
+				{
+					"backtrace" : 34,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "/GS-"
+				},
+				{
+					"backtrace" : 36,
+					"fragment" : "/Oi"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "/Ot"
+				},
+				{
+					"backtrace" : 38,
+					"fragment" : "/Gy"
+				},
+				{
+					"backtrace" : 39,
+					"fragment" : "/Ob2"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 42,
+					"define" : "AVI_VIDEO"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "CLIENT_DLL"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "COMPILER_MSVC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "DLLNAME=client_episodic"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "ENABLE_CHROMEHTMLWINDOW"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "FRAME_POINTER_OMISSION_DISABLED"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_CLIENT_DLL"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "HL2_EPISODIC"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "MEMOVERRIDE_MODULE=client_episodic"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "NDEBUG"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "NO_STRING_T"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "PROTECTED_THINGS_ENABLE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "RAD_TELEMETRY_DISABLED"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VECTOR"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "VERSION_SAFE_STEAM_API_INTERFACES"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "WMV_VIDEO"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_ITERATOR_DEBUG_LEVEL_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_MSC_VER_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_ALLOW_RUNTIME_LIBRARY_MISMATCH"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_NONSTDC_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "_DLL_EXT=.dll"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "_USRDLL"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WIN32"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "_WINDOWS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "_snprintf=use_Q_snprintf_instead"
+				},
+				{
+					"define" : "client_episodic_EXPORTS"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "fopen=dont_use_fopen"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "strncpy=use_Q_strncpy_instead"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/common"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier0"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/public/tier1"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/hl2/elements"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/hl2"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared/episodic"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/vgui2/controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/shared"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/game_controls"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/thirdparty/sixensesdk/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "14"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 57,
+					"header" : "C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/src/game/client/cbase.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				451,
+				452,
+				453,
+				454,
+				455,
+				456,
+				457,
+				458,
+				459,
+				460,
+				461,
+				462,
+				463,
+				464,
+				465,
+				466,
+				467,
+				468,
+				469,
+				470,
+				1102
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 14,
+			"id" : "mathlib::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "tier1::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "vgui_controls::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "client_episodic::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:X86 /INCREMENTAL:NO",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/DEBUG:FULL",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libc",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libcd",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libcmtd",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libcpmtd",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libcpmtd0",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/NODEFAULTLIB:libcpmtd1",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/OPT:REF",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/OPT:ICF",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/SAFESEH:NO",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/MANIFEST:NO",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "-LIBPATH:C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "-LIBPATH:C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\common\\.",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "winmm.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\particles.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\bitmap.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\choreoobjects.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\dmxloader.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "mathlib.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\matsys_controls.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "tier1.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\tier2.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\tier3.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "vgui_controls.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\vtf.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "steam_api.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "C:\\Users\\Samuel\\source\\repos\\source-sdk-2013-cmake\\sp\\src\\lib\\public\\.\\libz.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "legacy_stdio_definitions.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "tier0.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "vstdlib.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "Rpcrt4.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "client_episodic",
+	"nameOnDisk" : "client.dll",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				14,
+				16,
+				18,
+				19,
+				21,
+				22,
+				23,
+				24,
+				25,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				56,
+				58,
+				59,
+				62,
+				63,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				74,
+				75,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				92,
+				93,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				103,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				113,
+				116,
+				117,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				220,
+				221,
+				222,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				240,
+				241,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				249,
+				250,
+				251,
+				252,
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				259,
+				260,
+				261,
+				262,
+				263,
+				264,
+				265,
+				266,
+				267,
+				268,
+				269,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				288,
+				289,
+				290,
+				291,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				324,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351,
+				352,
+				353,
+				354,
+				355,
+				356,
+				357,
+				358,
+				359,
+				360,
+				361,
+				362,
+				363,
+				364,
+				365,
+				366,
+				367,
+				368,
+				369,
+				370,
+				371,
+				372,
+				373,
+				374,
+				375,
+				376,
+				378,
+				379,
+				380,
+				381,
+				382,
+				383,
+				384,
+				385,
+				386,
+				387,
+				388,
+				389,
+				390,
+				392,
+				393,
+				394,
+				395,
+				396,
+				397,
+				398,
+				399,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				407,
+				408,
+				409,
+				410,
+				411,
+				412,
+				413,
+				414,
+				416,
+				418,
+				419,
+				420,
+				421,
+				422,
+				423,
+				424,
+				425,
+				426,
+				427,
+				428,
+				429,
+				431,
+				432,
+				433,
+				434,
+				436,
+				438,
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				451,
+				452,
+				453,
+				454,
+				455,
+				456,
+				457,
+				458,
+				459,
+				460,
+				461,
+				462,
+				463,
+				464,
+				465,
+				466,
+				467,
+				468,
+				469,
+				470,
+				471,
+				472,
+				473,
+				474,
+				475,
+				476,
+				477,
+				478,
+				479,
+				480,
+				481,
+				482,
+				483,
+				484,
+				485,
+				486,
+				487,
+				488,
+				489,
+				490,
+				491,
+				492,
+				493,
+				494,
+				495,
+				496,
+				497,
+				498,
+				499,
+				500,
+				501,
+				502,
+				503,
+				504,
+				505,
+				506,
+				507,
+				508,
+				509,
+				510,
+				511,
+				512,
+				513,
+				514,
+				515,
+				516,
+				517,
+				518,
+				519,
+				520,
+				521,
+				522,
+				523,
+				524,
+				525,
+				526,
+				527,
+				528,
+				529,
+				530,
+				531,
+				532,
+				533,
+				534,
+				535,
+				537,
+				539,
+				540,
+				541,
+				542,
+				543,
+				544,
+				545,
+				546,
+				547,
+				548,
+				550,
+				552,
+				553,
+				1102
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				13,
+				15,
+				17,
+				20,
+				26,
+				34,
+				46,
+				55,
+				57,
+				60,
+				61,
+				64,
+				72,
+				73,
+				76,
+				91,
+				94,
+				102,
+				104,
+				112,
+				114,
+				115,
+				118,
+				129,
+				139,
+				194,
+				201,
+				219,
+				223,
+				230,
+				239,
+				242,
+				323,
+				325,
+				345,
+				377,
+				391,
+				415,
+				417,
+				430,
+				435,
+				437,
+				439,
+				536,
+				538,
+				549,
+				551,
+				554,
+				555,
+				556,
+				557,
+				558,
+				559,
+				560,
+				561,
+				562,
+				563,
+				564,
+				565,
+				566,
+				567,
+				568,
+				569,
+				570,
+				571,
+				572,
+				573,
+				574,
+				575,
+				576,
+				577,
+				578,
+				579,
+				580,
+				581,
+				582,
+				583,
+				584,
+				585,
+				586,
+				587,
+				588,
+				589,
+				590,
+				591,
+				592,
+				593,
+				594,
+				595,
+				596,
+				597,
+				598,
+				599,
+				600,
+				601,
+				602,
+				603,
+				604,
+				605,
+				606,
+				607,
+				608,
+				609,
+				610,
+				611,
+				612,
+				613,
+				614,
+				615,
+				616,
+				617,
+				618,
+				619,
+				620,
+				621,
+				622,
+				623,
+				624,
+				625,
+				626,
+				627,
+				628,
+				629,
+				630,
+				631,
+				632,
+				633,
+				634,
+				635,
+				636,
+				637,
+				638,
+				639,
+				640,
+				641,
+				642,
+				643,
+				644,
+				645,
+				646,
+				647,
+				648,
+				649,
+				650,
+				651,
+				652,
+				653,
+				654,
+				655,
+				656,
+				657,
+				658,
+				659,
+				660,
+				661,
+				662,
+				663,
+				664,
+				665,
+				666,
+				667,
+				668,
+				669,
+				670,
+				671,
+				672,
+				673,
+				674,
+				675,
+				676,
+				677,
+				678,
+				679,
+				680,
+				681,
+				682,
+				683,
+				684,
+				685,
+				686,
+				687,
+				688,
+				689,
+				690,
+				691,
+				692,
+				693,
+				694,
+				695,
+				696,
+				697,
+				698,
+				699,
+				700,
+				701,
+				702,
+				703,
+				704,
+				705,
+				706,
+				707,
+				708,
+				709,
+				710,
+				711,
+				712,
+				713,
+				714,
+				715,
+				716,
+				717,
+				718,
+				719,
+				720,
+				721,
+				722,
+				723,
+				724,
+				725,
+				726,
+				727,
+				728,
+				729,
+				730,
+				731,
+				732,
+				733,
+				734,
+				735,
+				736,
+				737,
+				738,
+				739,
+				740,
+				741,
+				742,
+				743,
+				744,
+				745,
+				746,
+				747,
+				748,
+				749,
+				750,
+				751,
+				752,
+				753,
+				754,
+				755,
+				756,
+				757,
+				758,
+				759,
+				760,
+				761,
+				762,
+				763,
+				764,
+				765,
+				766,
+				767,
+				768,
+				769,
+				770,
+				771,
+				772,
+				773,
+				774,
+				775,
+				776,
+				777,
+				778,
+				779,
+				780,
+				781,
+				782,
+				783,
+				784,
+				785,
+				786,
+				787,
+				788,
+				789,
+				790,
+				791,
+				792,
+				793,
+				794,
+				795,
+				796,
+				797,
+				798,
+				799,
+				800,
+				801,
+				802,
+				803,
+				804,
+				805,
+				806,
+				807,
+				808,
+				809,
+				810,
+				811,
+				812,
+				813,
+				814,
+				815,
+				816,
+				817,
+				818,
+				819,
+				820,
+				821,
+				822,
+				823,
+				824,
+				825,
+				826,
+				827,
+				828,
+				829,
+				830,
+				831,
+				832,
+				833,
+				834,
+				835,
+				836,
+				837,
+				838,
+				839,
+				840,
+				841,
+				842,
+				843,
+				844,
+				845,
+				846,
+				847,
+				848,
+				849,
+				850,
+				851,
+				852,
+				853,
+				854,
+				855,
+				856,
+				857,
+				858,
+				859,
+				860,
+				861,
+				862,
+				863,
+				864,
+				865,
+				866,
+				867,
+				868,
+				869,
+				870,
+				871,
+				872,
+				873,
+				874,
+				875,
+				876,
+				877,
+				878,
+				879,
+				880,
+				881,
+				882,
+				883,
+				884,
+				885,
+				886,
+				887,
+				888,
+				889,
+				890,
+				891,
+				892,
+				893,
+				894,
+				895,
+				896,
+				897,
+				898,
+				899,
+				900,
+				901,
+				902,
+				903,
+				904,
+				905,
+				906,
+				907,
+				908,
+				909,
+				910,
+				911,
+				912,
+				913,
+				914,
+				915,
+				916,
+				917,
+				918,
+				919,
+				920,
+				921,
+				922,
+				923,
+				924,
+				925,
+				926,
+				927,
+				928,
+				929,
+				930,
+				931,
+				932,
+				933,
+				934,
+				935,
+				936,
+				937,
+				938,
+				939,
+				940,
+				941,
+				942,
+				943,
+				944,
+				945,
+				946,
+				947,
+				948,
+				949,
+				950,
+				951,
+				952,
+				953,
+				954,
+				955,
+				956,
+				957,
+				958,
+				959,
+				960,
+				961,
+				962,
+				963,
+				964,
+				965,
+				966,
+				967,
+				968,
+				969,
+				970,
+				971,
+				972,
+				973,
+				974,
+				975,
+				976,
+				977,
+				978,
+				979,
+				980,
+				981,
+				982,
+				983,
+				984,
+				985,
+				986,
+				987,
+				988,
+				989,
+				990,
+				991,
+				992,
+				993,
+				994,
+				995,
+				996,
+				997,
+				998,
+				999,
+				1000,
+				1001,
+				1002,
+				1003,
+				1004,
+				1005,
+				1006,
+				1007,
+				1008,
+				1009,
+				1010,
+				1011,
+				1012,
+				1013,
+				1014,
+				1015,
+				1016,
+				1017,
+				1018,
+				1019,
+				1020,
+				1021,
+				1022,
+				1023,
+				1024,
+				1025,
+				1026,
+				1027,
+				1028,
+				1029,
+				1030,
+				1031,
+				1032,
+				1033,
+				1034,
+				1035,
+				1036,
+				1037,
+				1038,
+				1039,
+				1040,
+				1041,
+				1042,
+				1043,
+				1044,
+				1045,
+				1046,
+				1047,
+				1048,
+				1049,
+				1050,
+				1051,
+				1052,
+				1053,
+				1054,
+				1055,
+				1056,
+				1057,
+				1058,
+				1059,
+				1060,
+				1061,
+				1062,
+				1063,
+				1064,
+				1065,
+				1066,
+				1067,
+				1068,
+				1069,
+				1070,
+				1071,
+				1072,
+				1073,
+				1074,
+				1075,
+				1076,
+				1077,
+				1078,
+				1079,
+				1080,
+				1081,
+				1082,
+				1083,
+				1084,
+				1085,
+				1086,
+				1087,
+				1088,
+				1089,
+				1090,
+				1091,
+				1092,
+				1093,
+				1094,
+				1095,
+				1096,
+				1097,
+				1098,
+				1099,
+				1100,
+				1101
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				1103
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_chat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_team_objectiveresource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/c_team_objectiveresource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/basehlcombatweapon_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/episodic/achievements_ep1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/episodic/achievements_ep2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/episodic/achievements_epx.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_antlion_dust.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_ar2_explosion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_barnacle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_barney.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_basehelicopter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_basehelicopter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_basehlcombatweapon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_basehlcombatweapon.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_basehlplayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_basehlplayer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_citadel_effects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_corpse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_corpse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_env_alyxtemp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_env_headcrabcanister.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_env_starfield.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_func_tankmortar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_hl2_playerlocaldata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_hl2_playerlocaldata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_info_teleporter_countdown.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_npc_antlionguard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_npc_combinegunship.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_npc_manhack.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_npc_rollermine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_plasma_beam_node.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_prop_combine_ball.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_prop_combine_ball.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_prop_scalable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_rotorwash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_script_intro.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/script_intro_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_strider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_te_concussiveexplosion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_te_flare.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_thumper_dust.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_vehicle_airboat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_vehicle_cannon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_vehicle_crane.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/c_vehicle_crane.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_vehicle_jeep_episodic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_vehicle_prisoner_pod.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_vort_charge_token.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_weapon__stubs_hl2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_weapon_crossbow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_weapon_hopwire.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_weapon_physcannon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_weapon_stunstick.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/hl2/citadel_effects_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/clientmode_hlnormal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/clientmode_hlnormal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/death.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/env_headcrabcanister_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/hl2/env_headcrabcanister_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/episodic/npc_advisor_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_npc_advisor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/episodic_screenspaceeffects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/episodic/episodic_screenspaceeffects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/flesh_internal_material_proxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/fx_antlion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/fx_bugbait.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/fx_hl2_impacts.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/fx_hl2_tracers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hl2_clientmode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/hl2_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/hl2/hl2_gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/hl2/hl2_shareddefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/hl2_usermessages.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/hl_gamemovement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/shared/hl2/hl_gamemovement.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hl_in_main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hl_prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_ammo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_battery.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_blood.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_credits.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_damageindicator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_flashlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_locator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_health.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_poisondamageindicator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_posture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_quickinfo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_radar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/hud_radar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_squadstatus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_suitpower.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "src/game/client/hl2/hud_suitpower.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_weaponselection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_zoom.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/shieldproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hl2/survival_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/vgui_rootpanel_hl2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/episodic/c_npc_puppet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/replay/replaycamera.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/replay/replaycamera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/replay/cdll_replay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/replay/cdll_replay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/C_Func_Monitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/geiger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/history_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_weapon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/train.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/weapon_parse_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/achievement_saverestore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/achievement_saverestore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/achievementmgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/achievementmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/achievements_and_stats_interface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/achievements_hlx.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/achievement_notification_panel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/achievement_notification_panel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/activitylist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/alphamaterialproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/ammodef.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/animatedentitytextureproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/animatedoffsettextureproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/animatedtextureproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/AnimateSpecificTextureProxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/animation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/base_playeranimstate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseachievement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseachievement.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/baseanimatedtextureproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/baseclientrendertargets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/basecombatcharacter_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/basecombatweapon_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseentity_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/basegrenade_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseparticleentity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseplayer_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseprojectile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseprojectile.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/baseviewmodel_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/beamdraw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/beam_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/public/bone_accessor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/bone_merge_cache.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_ai_basehumanoid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_ai_basenpc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseanimating.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseanimatingoverlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_basecombatcharacter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_basecombatweapon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_basedoor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseentity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseflex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseplayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_baseviewmodel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_breakableprop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_colorcorrection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_colorcorrectionvolume.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_dynamiclight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_entitydissolve.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_entityparticletrail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_env_fog_controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_env_particlescript.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_env_projectedtexture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_env_screenoverlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_env_tonemap_controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_fire_smoke.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_fish.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_areaportalwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_breakablesurf.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_conveyor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_dust.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_lod.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_occluder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_reflective_glass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_rotating.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_smokevolume.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_func_tracktrain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_gib.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_hairball.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_info_overlay_accessor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_lightglow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/C_MaterialModifyControl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_particle_system.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_physbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_physicsprop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_physmagnet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_pixel_visibility.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_plasma.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_playerresource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_point_camera.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_point_commentary_node.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_props.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_props.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_ragdoll_manager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_rope.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_rumble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_sceneentity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_shadowcontrol.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_slideshow_display.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_slideshow_display.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_soundscape.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_spotlight_end.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_sprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_sprite_perfmonitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_sun.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_team.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_tesla.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_test_proxytoggle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_user_message_register.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_vehicle_choreo_generic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_vehicle_jeep.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_vguiscreen.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/c_waterbullet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_autoaim.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/C_WaterLODControl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_world.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/cam_thirdperson.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/cam_thirdperson.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/camomaterialproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/cdll_client_int.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/cdll_bounded_cvars.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cdll_bounded_cvars.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/cdll_util.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/cl_mat_stub.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/classmap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/client_factorylist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/client_thinklist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/client_virtualreality.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/client_virtualreality.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clienteffectprecachesystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/cliententitylist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientleafsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientmode_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientshadowmgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientsideeffects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientsideeffects_test.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/clientsteamcontext.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clientsteamcontext.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/colorcorrectionmgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/commentary_modelviewer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/commentary_modelviewer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/collisionproperty.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/death_pose.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/debugoverlay_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/decals.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/detailobjectsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/dummyproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/effect_dispatch_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/EffectsClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/ehandle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/entitylist_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/entityoriginmaterialproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/EntityParticleTrail_Shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/env_detail_controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/env_wind_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/eventlist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/flashlighteffect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/func_ladder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/functionproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_blood.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_cube.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_explosion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_fleck.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_impact.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_interpvalue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_quad.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_shelleject.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_staticline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_tracer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_trail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_water.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/gamemovement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/gamerules_register.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/GameStats.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/gamestringpool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/gametrace_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/gamevars_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/glow_outline_effect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/glow_overlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hintmessage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/hintsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hltvcamera.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_animationinfo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_basechat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_basetimer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_bitmapnumericdisplay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_closecaption.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_crosshair.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_element_helper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_filmdemo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hl2/hud_hdrdemo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_hintdisplay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_msg.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_numericdisplay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_pdump.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_redraw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/hud_vehicle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/igamesystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/in_camera.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/in_joystick.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/in_main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/initializer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/interpolatedvar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/IsNPCProxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/lampbeamproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/lamphaloproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/mapentities_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/mathproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/matrixproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/menu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/message.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/movehelper_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/movevars_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/multiplay_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/obstacle_pushaway.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/panelmetaclassmgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particle_collision.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particle_litsmokeemitter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/particle_parse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/particle_parse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/particle_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/particle_property.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particle_proxies.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particle_simple3d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particlemgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particles_attractor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particles_ez.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particles_localspace.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particles_new.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particles_simple.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/particlesystemquery.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/perfvisualbenchmark.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/physics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/physics_main_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/physics_main_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/physics_saverestore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/physics_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/physpropclientside.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/playerandobjectenumerator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/playerspawncache.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/point_bonusmaps_accessor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/point_bonusmaps_accessor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/point_posecontroller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/precache_register.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/predictableid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/predictioncopy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/props_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/proxyentity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/ProxyHealth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/proxyplayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/proxypupil.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/ragdoll.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/ragdoll_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/recvproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/basepresence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/rope_helpers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/saverestore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/sceneentity_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/ScreenSpaceEffects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/sequence_Transitioner.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/simple_keys.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/simtimer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/singleplay_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/SoundEmitterSystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/soundenvelope.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/public/SoundParametersInternal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/splinepatch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/Sprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/spritemodel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/SpriteTrail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/studio_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/studio_stats.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/studio_stats.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/takedamageinfo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/teamplay_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/teamplayroundbased_gamerules.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/test_ehandle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/text_message.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/texturescrollmaterialproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/timematerialproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/toggletextureproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/usercmd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/usermessages.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/util_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/vehicle_viewblend_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_avatarimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_avatarimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_basepanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_bitmapbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_bitmapimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_bitmappanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_schemevisualizer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_centerstringpanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_consolepanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_debugoverlaypanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_fpspanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_game_viewport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_grid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_int.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_loadingdiscpanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_messagechars.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_netgraphpanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_slideshow_display_screen.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/view.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/view_beams.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/view_effects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/view_scene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/viewangleanim.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/ViewConeImage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/viewdebug.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/viewdebug.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/viewpostprocess.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/viewpostprocess.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/viewrender.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/voice_banmgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/voice_status.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/warp_overlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/WaterLODMaterialProxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/weapon_parse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/weapon_selection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/weapons_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/WorldDimsProxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_video.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/vgui_video_player.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/mp_shareddefs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_vote_controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_vote_controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/public/haptics/haptic_msgs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/public/haptics/haptic_utils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/sixense/in_sixense.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/sixense/in_sixense.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/sixense/in_sixense_gesture_bindings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/sixense/in_sixense_gesture_bindings.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/shared/sixense/sixense_convars.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sixense/sixense_convars_extern.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/bone_setup.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/posedebugger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/client_class.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/common/compiledcaptionswap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/collisionutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/crtmemdebug.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/dt_recv.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/dt_utlvector_common.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/dt_utlvector_recv.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/filesystem_helpers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/interpolatortypes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/shared/interval.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/common/language.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/networkvar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/common/randoverride.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/rope_physics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/scratchpad3d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/ScratchPadUtils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/sentence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/shared/sheetsimulator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/simple_physics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/stringregistry.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/studio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/vallocator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/vgui_controls/vgui_controls.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/jigglebones.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/client/hud_lcd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/client/in_mouse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/client/mumble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/renamed_recvtable_compat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 2,
+			"path" : "src/game/client/rendertexture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_basetempentity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_effects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_impact_effects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_movie_explosion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_particle_fire.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_particle_smokegrenade.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_prop_vehicle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_recipientfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_smoke_trail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_smokestack.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_steamjet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_stickybolt.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_armorricochet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_basebeam.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamentpoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beaments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamfollow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamlaser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beampoints.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamring.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamringpoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_beamspline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_bloodsprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_bloodstream.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_breakmodel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_bspdecal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_bubbles.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_bubbletrail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_clientprojectile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_decal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_dynamiclight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_effect_dispatch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_energysplash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_explosion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_fizz.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_footprint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_glassshatter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_glowsprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_impact.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_killplayerattachments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_largefunnel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_legacytempents.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_muzzleflash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_particlesystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_physicsprop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_playerdecal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_projecteddecal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_showline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_smoke.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_sparks.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_sprite.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_spritespray.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_te_worlddecal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_testtraceline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/c_tracer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_discreetline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_envelope.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_line.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/fx_sparks.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/particlesphererenderer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/smoke_fog_overlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/baseviewport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/basemodelpanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/basemodelpanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/basemodel_panel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/basemodel_panel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/ClientScoreBoardDialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/commandmenu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/intromenu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/MapOverview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/NavProgress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/SpectatorGUI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/teammenu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/vguitextwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/game_controls/IconPanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/mp3player.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/mp3player.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/public/tools/bonelist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tools/bonelist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/entity_client_tools.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"compileGroupIndex" : 1,
+			"path" : "src/game/client/toolframework_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/toolframework_client.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/animationlayer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/baseanimatedtextureproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/baseclientrendertargets.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/beamdraw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/bone_merge_cache.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_ai_basenpc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseanimating.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseanimatingoverlay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_basecombatcharacter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_basecombatweapon.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_basedoor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseflex.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseplayer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_basetempentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_baseviewmodel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_breakableprop.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_effects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_entitydissolve.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_env_fog_controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_fire_smoke.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_func_dust.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_func_reflective_glass.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_gib.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_impact_effects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_physbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_physicsprop.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_pixel_visibility.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_playerlocaldata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_playerresource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_point_camera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_prop_vehicle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_recipientfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_rope.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_rumble.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_sceneentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_smoke_trail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_soundscape.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_sprite.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_sun.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_te_basebeam.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_te_effect_dispatch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_te_legacytempents.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_te_particlesystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_team.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_tesla.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_tracer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_vehicle_jeep.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_user_message_register.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_vguiscreen.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_weapon__stubs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/c_world.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cbase.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cdll_client_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cdll_util.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cl_animevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cl_mat_stub.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/client_factorylist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/client_thinklist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clienteffectprecachesystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/cliententitylist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clientleafsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clientmode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clientmode_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/clientsideeffects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/colorcorrectionmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/detailobjectsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/enginesprite.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/flashlighteffect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fontabc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/functionproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_blood.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_discreetline.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_envelope.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_explosion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_fleck.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_impact.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_interpvalue.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_line.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_quad.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_sparks.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_staticline.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_trail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/fx_water.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/GameEventListener.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/glow_outline_effect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/glow_overlay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/hintmessage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/hintsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/history_resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hltvcamera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_basechat.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_basetimer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_bitmapnumericdisplay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_chat.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_closecaption.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_crosshair.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_element_helper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_lcd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_macros.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_numericdisplay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_pdump.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/basepresence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hud_vehicle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hudelement.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/hudtexturehandle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iclassmap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/icliententityinternal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iclientmode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iclientshadowmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iclientvehicle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iconsole.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/idebugoverlaypanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ifpspanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/econ/ihasowner.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ihudlcd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ipresence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iinput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iloadingdisc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/imessagechars.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/in_main.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/inetgraphpanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/initializer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/input.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/interpolatedvar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iprofiling.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/itextmessage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ivieweffects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iviewrender.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/iviewrender_beams.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ivmodemanager.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/kbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/common/language.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/lerp_functions.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/menu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/movehelper_client.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/mumble.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/networkstringtable_clientdll.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/panelmetaclassmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_collision.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_iterators.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_litsmokeemitter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_prototype.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_simple3d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particle_util.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particledraw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particlemgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particles_attractor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particles_ez.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particles_localspace.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particles_new.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particles_simple.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/particlesphererenderer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/perfvisualbenchmark.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/physics.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/physpropclientside.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/playerandobjectenumerator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/playerenumerator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/playerspawncache.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/prediction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/prediction_private.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/proxyentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ragdoll.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ragdollexplosionenumerator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/recvproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/rendertexture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ScreenSpaceEffects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/simple_keys.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/smoke_fog_overlay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/splinepatch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/steam/steam_api.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/TeamBitmapImage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/tempent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/text_message.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/timedevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/toggletextureproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_basepanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_bitmapbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_bitmapimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_bitmappanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_schemevisualizer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_entityimagepanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_entitypanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_grid.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_helpers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_imagehealthpanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vguicenterprint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/view.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/view_scene.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/viewangleanim.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/ViewConeImage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/viewrender.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/weapon_selection.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/weapons_resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_video.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/vgui_video_player.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/amd3dx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/AnimationController.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/basehandle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/basetypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/bitbuf.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bitvec.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bone_accessor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bone_setup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bspfile.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bspflags.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/bsptreedata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/bumpvects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Button.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/cdll_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/characterset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/checksum_md5.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/client_class.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/client_render_handle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/client_textmessage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/clientstats.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/cmodel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vphysics/collision_set.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/collisionutils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/Color.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/ComboBox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/commonmacros.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/compressed_light_cube.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/compressed_vector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/con_nprint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/const.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vphysics/constraints.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Controls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/convar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/coordsize.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/crtmemdebug.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/Cursor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/Dar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/datamap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/dbg.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dlight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dt_common.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dt_recv.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dt_send.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dt_utlvector_common.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/dt_utlvector_recv.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/edict.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/EditablePanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/fasttimer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/filesystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/filesystem_helpers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/fmtstr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/FocusNavGroup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vphysics/friction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/gamebspfile.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/gametrace.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/globalvars_base.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/HTML.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iachievementmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/appframework/IAppSystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/icliententity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/icliententitylist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/IClientLeafSystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iclientnetworkable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IClientPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iclientrenderable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/game/client/iclientrendertargets.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iclientthinkable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iclientunknown.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/ICollideable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/icommandline.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/icvar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iefx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/IEngineSound.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/IEngineTrace.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ienginevgui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/igameevents.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/igameresources.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/IGameUIFuncs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ihandleentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IHTML.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IImage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IInput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IInputInternal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vstdlib/IKeyValuesSystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/ILocalize.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Image.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/ImageList.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/ImagePanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/imapoverview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterial.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterialproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterialsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterialsystemhardwareconfig.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterialsystemstub.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imaterialvar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/VGuiMatSurface/IMatSystemSurface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/imesh.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/inetchannelinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/interface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/interpolatortypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iprediction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/irecipientfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/isaverestore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IScheme.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iscratchpad3d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iserverentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iservernetworkable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/iserverunknown.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/ishadowmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/SoundEmitterSystem/isoundemittersystembase.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ispatialpartition.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/IStaticPropMgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/istudiorender.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/ISurface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/ISystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/materialsystem/itexture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/ivdebugoverlay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/IVGui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ivguicenterprint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/game/client/iviewport.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/ivmodelinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/engine/ivmodelrender.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ivrenderview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/jigglebones.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/KeyCode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/KeyValues.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/l2cache.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Label.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/ListPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/mathlib.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/mem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/memalloc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/memdbgoff.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/memdbgon.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/mempool.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Menu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/MenuItem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/MessageMap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/model_types.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/MouseCode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mouthinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/networkstringtabledefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/networkvar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vphysics/object_hash.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/overlaytext.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/Panel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/PanelAnimationVar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/PanelListPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/PHandle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/pixelwriter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/platform.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/PlayerState.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/processor_detect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/protected_things.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/polyhedron.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/r_efx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vstdlib/random.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/rangecheckedvar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/renamed_recvtable_compat.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/RichText.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/rope_physics.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/rope_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/saverestoretypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/scratchpad3d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/ScratchPadUtils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/ScrollBar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/SectionedListPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/sentence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/server_class.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/shake.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/shattersurfacetypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/simple_physics.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/smartptr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/soundchars.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/soundflags.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/soundinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/string_t.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/stringpool.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/stringregistry.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/strtools.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/studio.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/surfinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/TextEntry.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/TextImage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/texture_group_names.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/TreeView.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlbidirectionalset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlbuffer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utldict.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlfixedmemory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlhash.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utllinkedlist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlmap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlmemory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlmultilist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlpriorityqueue.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlqueue.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlrbtree.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlstack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlsymbol.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier1/utlvector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vallocator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vcollide.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vcollide_parse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/vector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/vector2d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/vector4d.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui/VGUI.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/view_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/vmatrix.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vphysics_interface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/mathlib/vplane.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/tier0/vprof.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vstdlib/vstdlib.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vtf/vtf.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/WizardPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/vgui_controls/WizardSubPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/worldsize.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/zip_uncompressed.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/haptics/ihaptics.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/public/haptics/haptic_utils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/activitylist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ai_activity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ai_debug_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ammodef.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/animation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/apparent_velocity_helper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/base_playeranimstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseentity_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/basegrenade_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/hl2/basehlcombatweapon_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseparticleentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseplayer_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/baseviewmodel_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/beam_flags.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/beam_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/choreoactor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/choreochannel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/choreoevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/choreoscene.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/collisionproperty.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/death_pose.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/decals.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/effect_color_tables.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/effect_dispatch_data.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ehandle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/entitydatainstantiator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/entitylist_base.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/entityparticletrail_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/env_detail_controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/env_wind_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/eventlist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/func_dust_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/func_ladder.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gameeventdefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamemovement.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamerules_register.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamestats.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamestringpool.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/gamevars_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/groundlink.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/hl2/hl2_player_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/hl2/hl_movedata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ichoreoeventcallback.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/IEffects.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/igamemovement.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/igamesystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/imovehelper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/in_buttons.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/interval.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/iplayeranimstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ipredictionsystem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/itempents.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/IVehicle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/mapdata_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/mapentities_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/movevars_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/multiplay_gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/npcevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/obstacle_pushaway.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/physics_saverestore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/physics_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/playernet_vars.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/point_posecontroller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/positionwatcher.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/precache_register.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/precipitation_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/predictable_entity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/predictableid.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/predictioncopy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/ragdoll_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/rope_helpers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/saverestore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/saverestore_bitstring.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/saverestore_utlclass.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/saverestore_utlsymbol.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/saverestore_utlvector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sceneentity_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/scriptevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sequence_Transitioner.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/shared_classnames.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/shareddefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sharedInterface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sheetsimulator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/shot_manipulator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/simtimer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/singleplay_gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/smoke_fog_overlay_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/solidsetdefaults.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/soundenvelope.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/Sprite.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/SpriteTrail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/sun_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/takedamageinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/teamplay_gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/teamplayroundbased_gamerules.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/tempentity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/touchlink.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/usercmd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/usermessages.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/util_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/vehicle_choreo_generic_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/vehicle_viewblend_shared.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/vgui_defaultinputsignal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/viewport_panel_names.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/voice_banmgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/voice_common.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/voice_gamemgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/voice_status.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/vphysics_sound.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/weapon_parse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/weapon_proficiency.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/weapon_ifmsteadycam.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/shared/mp_shareddefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/baseviewport.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/clientscoreboarddialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/commandmenu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/imagemouseoverbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/intromenu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/mapoverview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/mouseoverhtmlbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/mouseoverpanelbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/spectatorgui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/teammenu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/vguitextwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 58,
+			"path" : "src/game/client/game_controls/IconPanel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 60,
+			"compileGroupIndex" : 2,
+			"path" : "src/public/tier0/memoverride.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "out/build/x86-Debug/CMakeFiles/client_episodic.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

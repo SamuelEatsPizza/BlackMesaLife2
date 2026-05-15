@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x86-Debug",
+      "out\\install\\x86-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\game",
+    "\\src\\game\\server",
+    "\\src\\game\\server\\hl2",
+    "\\src\\thirdparty\\protobuf-2.3.0",
+    "\\src\\thirdparty\\protobuf-2.3.0\\vsprojects"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,8 @@
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/client_episodic.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/server_episodic.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/mathlib.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/raytrace.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/tier1.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/vgui_controls.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/source/repos/source-sdk-2013-cmake/sp/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
